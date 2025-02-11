@@ -15,6 +15,24 @@ This project is a **Jupyter Notebook-based implementation** that focuses on **en
 - Matplotlib / Seaborn
 - Scikit-learn
 
+### **Dataset Reference for the Smart Home AI Project**
+This project uses the **UCI Electric Power Consumption Dataset**, which is hosted on Kaggle.
+
+#### **📌 Dataset Link:**
+[UCI Electric Power Consumption Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set)
+
+#### **📜 Dataset:**
+The dataset is imported using `kagglehub`:
+```python
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("uciml/electric-power-consumption-data-set")
+
+print("Path to dataset files:", path)
+```
+This command **automatically downloads** the latest version of the dataset and stores it locally for further processing.
+
 #### **Potential Applications:**
 - **Smart Home Energy Management**
 - **Dynamic Appliance Control**
