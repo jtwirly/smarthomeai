@@ -39,9 +39,12 @@ This command **automatically downloads** the latest version of the dataset and s
 - **Grid Load Forecasting**
 - **Optimized Renewable Energy Use**
 
-#### ** Results:**
+#### Results:
+Neural Network:
 <img width="826" alt="Screen Shot 2025-03-10 at 1 48 48 PM" src="https://github.com/user-attachments/assets/f3f48032-8d18-48b3-8a1c-8e72877aa07f" />
 <img width="134" alt="Screen Shot 2025-03-10 at 1 49 01 PM" src="https://github.com/user-attachments/assets/a815ac3f-f20d-4b32-84e7-5511088b85d7" />
+
+LSTM:
 <img width="827" alt="Screen Shot 2025-03-10 at 1 49 22 PM" src="https://github.com/user-attachments/assets/e53c614a-e0f3-4bf3-a249-dfa18b30a376" />
 <img width="73" alt="Screen Shot 2025-03-10 at 1 49 30 PM" src="https://github.com/user-attachments/assets/a37c8715-06dd-4818-b957-0c710f6095e1" />
 
